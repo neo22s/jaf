@@ -1,0 +1,4 @@
+User-agent: *
+Crawl-Delay: 3600
+Allow: *
+Sitemap: /sitemap.xml.gz

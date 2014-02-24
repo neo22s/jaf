@@ -1,0 +1,14 @@
+/* TEAM */                   
+Your title: Chema Garrido.                       
+Site: http://code.google.com/p/jaf-php/.                         
+Twitter: deambulando.                  
+Location: Barcelona, Spain.
+						
+/* THANKS */						
+Name: Kohana Framework.
+                        
+/* SITE */                
+Last update: 2011/06/26.                         
+Standards: HTML5, CSS3.
+Components: Modernizr, jQuery.
+Software: PHP, MySQL, Ubuntu, Eclipse.
