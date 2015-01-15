@@ -1,7 +1,7 @@
 JAF PHP		Simple MVC
 ===
 
-Just Another Framework. Developed for learning purposes, do not use in production.
+Just Another Framework. Developed in 2010 for learning purposes, do not use in production.
 
 ===
  	
